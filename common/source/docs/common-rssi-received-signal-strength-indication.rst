@@ -1,3 +1,15 @@
+
+==========================================
+Received Signal Strength Indication (RSSI)
+==========================================
+
+RSSI has changed over the course of development for the ArudPilot project. Most significantly, RSSI in the current versions of the firmware supported by the Pixhawk hardware and various Linux boards are more capable than RSSI in the final Arduino (APM 2.6) version of ArduPilot. If you have an older Arduino APM 2.6 board <see this link to place below>
+
+
+
+Lukasz Original Docs for reference:
+-----------------------------------
+
 .. _common-rssi-received-signal-strength-indication:
 
 ==========================================
